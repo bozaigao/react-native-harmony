@@ -1,0 +1,15 @@
+[submodule "harmony/cpp/third-party/boost"]
+	path = harmony/cpp/third-party/boost
+	url = https://github.com/boostorg/boost.git
+[submodule "harmony/cpp/third-party/fmt"]
+	path = harmony/cpp/third-party/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "harmony/cpp/third-party/folly"]
+	path = harmony/cpp/third-party/folly
+	url = https://github.com/facebook/folly.git
+[submodule "harmony/cpp/third-party/hermes"]
+	path = harmony/cpp/third-party/hermes
+	url = https://github.com/facebook/hermes.git
+[submodule "harmony/cpp/third-party/libevent"]
+	path = harmony/cpp/third-party/libevent
+	url = https://github.com/libevent/libevent.git
